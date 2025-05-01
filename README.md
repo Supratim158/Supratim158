@@ -1,3 +1,4 @@
+![Mobile App Background](vecteezy_mobile-application-futures-background_35443255.gif)
 <!-- [![MasterHead]()](https://github.com/Supratim158)-->
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Hi-👋,-I'm-Supratim-Modak"/>
