@@ -10,8 +10,18 @@
 <h3 align="center">Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from the University Of Engineering and management, Jaipur.</h3>
 
 <h2 align="left">🚀 About me:</h2>
-🔭 I’m currently a CS student<br><br>📫 How to reach me supratim2005k@gmail.com<br><br>👨‍💻 All of my projects are available at https://github.com/Supratim158<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: I enjoy listening music<br><br>🎨 A Painter
 
+- 🔭 I’m currently a CS student
+
+- 📫 How to reach me **supratim2005k@gmail.com**
+
+- 👨‍💻 All of my projects are available at **https://github.com/Supratim158**
+
+- 😄 Pronouns: he/him
+
+- ⚡ Fun fact: **I enjoy listening music**
+  
+- 🎨 **A Painter**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/supratim.modak.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/supratiim__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supratim-modak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Supratim158) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supratim2005k@gmail.com) 
