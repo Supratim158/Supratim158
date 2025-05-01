@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/9092bfd7-6585-4048-8b3d-7568d0cda75f
+
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Hi-👋,-I'm-Supratim-Modak"/>
 <!--     <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Building-India's-Largest-Student-Community"/> -->
