@@ -1,10 +1,10 @@
-![Mobile App Background](vecteezy_mobile-application-futures-background_35443255.gif)
+![Mobile App Background](vecteezy_application-of-smartphone-with-market-trend-analysis_44604081.gif)
 <!-- [![MasterHead]()](https://github.com/Supratim158)-->
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Hi-👋,-I'm-Supratim-Modak"/>
 <!--     <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Building-India's-Largest-Student-Community"/> -->
 </p>
-<h3 align="center">I am a hardworking and ambitious full-stack app developer. I am also a competitive programmer.</h3>
+<h3 align="center">I am a full-stack app developer. I am also a competitive programmer.</h3>
 
 
 <h3 align="center">Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from the University Of Engineering and management, Jaipur.</h3>
