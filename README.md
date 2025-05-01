@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Supratim Modak</h1>
 <h3 align="center">I am a hardworking and ambitious full-stack app developer. I am also a competitive programmer.</h3>
-# 💫 About Me:
-
+## 💫 About Me:
 🔭 I’m currently a CS student<br><br>📫 How to reach me supratim2005k@gmail.com<br><br>👨‍💻 All of my projects are available at https://github.com/Supratim158<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: I enjoy listening music<br><br>🎨 A Painter
 
 
