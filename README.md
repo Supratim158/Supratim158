@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://github.com/Supratim158)
+<!-- [![MasterHead]()](https://github.com/Supratim158)-->
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Hi-👋,-I'm-Supratim-Modak"/>
 <!--     <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&size=40&width=900&height=80&lines=Building-India's-Largest-Student-Community"/> -->
