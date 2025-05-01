@@ -1,3 +1,5 @@
+![Mobile App Background](vecteezy_application-of-smartphone-with-market-trend-analysis_44604081.gif)
+
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Hi-👋,-I'm-Supratim-Modak"/>
 </p>
@@ -6,7 +8,7 @@
 
 <h3 align="center">Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from the University Of Engineering and management, Jaipur.</h3>
 
-![Mobile App Background](vecteezy_application-of-smartphone-with-market-trend-analysis_44604081.gif)
+
 
 <h2 align="left">🚀 About me:</h2>
 
